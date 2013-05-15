@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Door Phone Buddy Door</string>
+    <string name="loading">Performing maintenance, please wait...</string>
+    <string name="lock_status_locked">The door is locked.</string>
+    <string name="lock_status_unlocked">The door is unlocked.</string>
+    <string name="connected_to">Connected to:</string>
+    <string name="calling">Calling:</string>
+
+</resources>

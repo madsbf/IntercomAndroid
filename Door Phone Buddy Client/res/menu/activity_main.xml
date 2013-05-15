@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_status"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_status_available" android:checkable="true" android:checked="true" android:titleCondensed="@string/menu_status_available_condensed">
+    </item>
+    <item android:id="@+id/menu_speaker" android:checkable="true" android:title="@string/menu_speaker_off" android:checked="false" android:titleCondensed="@string/menu_speaker_off_condensed"></item>
+    <item android:id="@+id/menu_connection" android:title="@string/menu_connection" android:titleCondensed="@string/menu_connection_condensed"></item>
+
+</menu>

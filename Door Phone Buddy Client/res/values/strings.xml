@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Door Phone Buddy Client</string>
+    <string name="locked">Locked</string>
+    <string name="unlocked">Unlocked</string>
+    <string name="menu_status_available_condensed">Available</string>
+    <string name="menu_status_unavailabe_condensed">Unavailable</string>
+    <string name="menu_status_available">Current satus: Available</string>
+    <string name="menu_status_unavailabe">Current status: Unavailable</string>
+    <string name="activity_main">Door Phone Buddy</string>
+    <string name="activity_call">Incoming Door Phone Call</string>
+    <string name="menu_ignore">Ignore call</string>
+    <string name="menu_ignore_condensed">Ignore</string>
+    <string name="menu_speaker_on">Speaker: On</string>
+    <string name="menu_speaker_off">Speaker: Off</string>
+    <string name="no_video_connection">There is currently no video signal coming from the door.</string>
+    <string name="hint_key">Key...</string>
+    <string name="hint_secret">Password...</string>
+    <string name="connection_info">Connect to your intercom system by typing in the key and password, that you have received.
+        If you have not received your key and password, please contact your building supervisor for further information.</string>
+    <string name="connect">Connect</string>
+    <string name="menu_connection">Connection settings</string>
+    <string name="menu_connection_condensed">Connection</string>
+    <string name="menu_speaker_on_condensed">Speaker on</string>
+    <string name="menu_speaker_off_condensed">Speaker off</string>
+
+</resources>
